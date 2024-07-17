@@ -153,7 +153,7 @@ exports.updateNomPrenomAutre = async (req, res) => {
     try {
         const response = await formateur.updateNomPrenomAutre(email, newnom, newprenom, newemail, newtelephone, description, photoprof)
         if (response === true) {
-            res.status(200).json("Information modifier avec succès")
+            res.status(201).json("Information modifier avec succès")
         } else {
             res.status(200).json(response)
         }
