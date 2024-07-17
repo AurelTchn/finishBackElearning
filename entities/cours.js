@@ -60,6 +60,22 @@ class Cours {
             return false
         }
     }
+
+    async vewcours(id_formateur){
+        try{
+            
+
+            const sql2 = "SELECT id_cours FROM formateur WHERE id_formateur=?"
+            const [row2] = await db.execute(sql2, [id_formateur])
+
+            const sql3 = "SELECT libelle FROM cours WHERE id_cours=?"
+            const [row3] = await db.execute(sql3, [row2[0].id_cours])
+
+            return row3[0].libelle
+        }catch(error){
+            console.log(error)
+        }
+    }
 }
 
 module.exports = Cours

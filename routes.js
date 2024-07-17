@@ -106,6 +106,7 @@ router.post('/creeruncours', coursController.create)
 router.get('/affichertoutcours', coursController.getAllCours)
 router.post('/afficherUncours', coursController.getOneCours)
 router.post('/supprimerUnCours', coursController.deleteCours)
+router.post('/affcoursva', coursController.viewcours)
 
 //ROUTES MODULES
 router.post('/creerUnModule', upload.fields([{ name: "photomodule", maxCount: 1 }]), authentificateToken.authentificateToken, moduleController.create)
