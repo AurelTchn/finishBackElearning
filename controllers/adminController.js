@@ -109,7 +109,7 @@ exports.login = async (req, res, next) => {
     const data = await admin.authentificate()
     try {
         if (data === false) {
-            res.status(200).json("Vérifier")
+            res.status(200).json("Vous n'êtes pas autorisés")
         } else if (data == 5) {
             res.status(200).json("Vous n'êtes pas un membre d'administration")
         } else {

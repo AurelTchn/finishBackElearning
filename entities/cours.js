@@ -74,7 +74,7 @@ class Cours {
             return row3[0].libelle
         }catch(error){
             console.log(error)
-        }
+        } 
     }
 }
 
