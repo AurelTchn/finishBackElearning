@@ -1,10 +1,11 @@
 const mysql = require('mysql2')
 
 const pool = mysql.createPool({
-    host: 'https://php-myadmin.net/db_structure.php?db=if0_36920580_elearning',
-    user: 'root',
-    password: '',
-    database: 'if0_36920580_elearning'
+    host: 'sql110.infinityfree.com',
+    user: 'if0_36920580',
+    password: 'nN1jPe7lLKAq0Be',
+    database: 'if0_36920580_elearning',
+    port: '3306'
     
 })
 
