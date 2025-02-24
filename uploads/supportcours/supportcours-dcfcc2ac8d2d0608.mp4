@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+
+<title>Vidéo | Yout.com</title>
+<meta property="og:url" content="https://yout.com/video/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Vidéo | Yout.com" />
+<meta property="og:description" content="Yout.com vous permet d&#39;enregistrer des vidéos à partir de YouTube, de FaceBook, de SoundCloud, de VK et de nombreux autres formats contenant trop de clips. Intuitivement, facile à utiliser, avec Yout the Internet DVR, avec un peu plus." />
+<meta property="og:image:type" content="image/gif" />
+<meta property="og:image" content="https://yout.com/static/images/Youty.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@youtdotcom" />
+<meta name="twitter:title" content="Vidéo | Yout.com" />
+<meta name="twitter:description" content="Yout.com vous permet d&#39;enregistrer des vidéos à partir de YouTube, de FaceBook, de SoundCloud, de VK et de nombreux autres formats contenant trop de clips. Intuitivement, facile à utiliser, avec Yout the Internet DVR, avec un peu plus." />
+<meta name="twitter:image" content="https://yout.com/static/images/Youty.png" />
+<meta name="description" content="Yout.com vous permet d&#39;enregistrer des vidéos à partir de YouTube, de FaceBook, de SoundCloud, de VK et de nombreux autres formats contenant trop de clips. Intuitivement, facile à utiliser, avec Yout the Internet DVR, avec un peu plus.">
+<meta name="fo-verify" content="61098c68-ca63-4fc2-8343-a0e5773082c7">
+<link rel="preconnect" href="https://dvr.yout.com/">
+<link rel="dns-prefetch" href="https://dvr.yout.com/">
+<link rel="preconnect" href="https://dvr3.yout.com/">
+<link rel="dns-prefetch" href="https://dvr3.yout.com/" >
+<link rel="dns-prefetch" href="https://formats.yout.com/" >
+<link rel="dns-prefetch" href="https://stuff.yout.com/" >
+<link href="https://yout.com/video/" hreflang="x-default" rel="alternate"/>
+<link rel="alternate" hreflang="af" href="https://yout.com/video/?lang=af" />
+<link rel="alternate" hreflang="sq" href="https://yout.com/video/?lang=sq" />
+<link rel="alternate" hreflang="de" href="https://yout.com/video/?lang=de" />
+<link rel="alternate" hreflang="am" href="https://yout.com/video/?lang=am" />
+<link rel="alternate" hreflang="ar" href="https://yout.com/video/?lang=ar" />
+<link rel="alternate" hreflang="hy" href="https://yout.com/video/?lang=hy" />
+<link rel="alternate" hreflang="az" href="https://yout.com/video/?lang=az" />
+<link rel="alternate" hreflang="bn" href="https://yout.com/video/?lang=bn" />
+<link rel="alternate" hreflang="be" href="https://yout.com/video/?lang=be" />
+<link rel="alternate" hreflang="my" href="https://yout.com/video/?lang=my" />
+<link rel="alternate" hreflang="bs" href="https://yout.com/video/?lang=bs" />
+<link rel="alternate" hreflang="bg" href="https://yout.com/video/?lang=bg" />
+<link rel="alternate" hreflang="km" href="https://yout.com/video/?lang=km" />
+<link rel="alternate" hreflang="kn" href="https://yout.com/video/?lang=kn" />
+<link rel="alternate" hreflang="ca" href="https://yout.com/video/?lang=ca" />
+<link rel="alternate" hreflang="cs" href="https://yout.com/video/?lang=cs" />
+<link rel="alternate" hreflang="ny" href="https://yout.com/video/?lang=ny" />
+<link rel="alternate" hreflang="zh" href="https://yout.com/video/?lang=zh" />
+<link rel="alternate" hreflang="si" href="https://yout.com/video/?lang=si" />
+<link rel="alternate" hreflang="ko" href="https://yout.com/video/?lang=ko" />
+<link rel="alternate" hreflang="co" href="https://yout.com/video/?lang=co" />
+<link rel="alternate" hreflang="ht" href="https://yout.com/video/?lang=ht" />
+<link rel="alternate" hreflang="hr" href="https://yout.com/video/?lang=hr" />
+<link rel="alternate" hreflang="da" href="https://yout.com/video/?lang=da" />
+<link rel="alternate" hreflang="sk" href="https://yout.com/video/?lang=sk" />
+<link rel="alternate" hreflang="sl" href="https://yout.com/video/?lang=sl" />
+<link rel="alternate" hreflang="es" href="https://yout.com/video/?lang=es" />
+<link rel="alternate" hreflang="eo" href="https://yout.com/video/?lang=eo" />
+<link rel="alternate" hreflang="et" href="https://yout.com/video/?lang=et" />
+<link rel="alternate" hreflang="eu" href="https://yout.com/video/?lang=eu" />
+<link rel="alternate" hreflang="fi" href="https://yout.com/video/?lang=fi" />
+<link rel="alternate" hreflang="fr" href="https://yout.com/video/?lang=fr" />
+<link rel="alternate" hreflang="fy" href="https://yout.com/video/?lang=fy" />
+<link rel="alternate" hreflang="gd" href="https://yout.com/video/?lang=gd" />
+<link rel="alternate" hreflang="cy" href="https://yout.com/video/?lang=cy" />
+<link rel="alternate" hreflang="gl" href="https://yout.com/video/?lang=gl" />
+<link rel="alternate" hreflang="ka" href="https://yout.com/video/?lang=ka" />
+<link rel="alternate" hreflang="el" href="https://yout.com/video/?lang=el" />
+<link rel="alternate" hreflang="gu" href="https://yout.com/video/?lang=gu" />
+<link rel="alternate" hreflang="ha" href="https://yout.com/video/?lang=ha" />
+<link rel="alternate" hreflang="iw" href="https://yout.com/video/?lang=iw" />
+<link rel="alternate" hreflang="hi" href="https://yout.com/video/?lang=hi" />
+<link rel="alternate" hreflang="hu" href="https://yout.com/video/?lang=hu" />
+<link rel="alternate" hreflang="ig" href="https://yout.com/video/?lang=ig" />
+<link rel="alternate" hreflang="id" href="https://yout.com/video/?lang=id" />
+<link rel="alternate" hreflang="en" href="https://yout.com/video/?lang=en" />
+<link rel="alternate" hreflang="ga" href="https://yout.com/video/?lang=ga" />
+<link rel="alternate" hreflang="is" href="https://yout.com/video/?lang=is" />
+<link rel="alternate" hreflang="it" href="https://yout.com/video/?lang=it" />
+<link rel="alternate" hreflang="ja" href="https://yout.com/video/?lang=ja" />
+<link rel="alternate" hreflang="jw" href="https://yout.com/video/?lang=jw" />
+<link rel="alternate" hreflang="kk" href="https://yout.com/video/?lang=kk" />
+<link rel="alternate" hreflang="ky" href="https://yout.com/video/?lang=ky" />
+<link rel="alternate" hreflang="ku" href="https://yout.com/video/?lang=ku" />
+<link rel="alternate" hreflang="lo" href="https://yout.com/video/?lang=lo" />
+<link rel="alternate" hreflang="la" href="https://yout.com/video/?lang=la" />
+<link rel="alternate" hreflang="lv" href="https://yout.com/video/?lang=lv" />
+<link rel="alternate" hreflang="lt" href="https://yout.com/video/?lang=lt" />
+<link rel="alternate" hreflang="lb" href="https://yout.com/video/?lang=lb" />
+<link rel="alternate" hreflang="mk" href="https://yout.com/video/?lang=mk" />
+<link rel="alternate" hreflang="ml" href="https://yout.com/video/?lang=ml" />
+<link rel="alternate" hreflang="ms" href="https://yout.com/video/?lang=ms" />
+<link rel="alternate" hreflang="mg" href="https://yout.com/video/?lang=mg" />
+<link rel="alternate" hreflang="mt" href="https://yout.com/video/?lang=mt" />
+<link rel="alternate" hreflang="mi" href="https://yout.com/video/?lang=mi" />
+<link rel="alternate" hreflang="mr" href="https://yout.com/video/?lang=mr" />
+<link rel="alternate" hreflang="mn" href="https://yout.com/video/?lang=mn" />
+<link rel="alternate" hreflang="nl" href="https://yout.com/video/?lang=nl" />
+<link rel="alternate" hreflang="ne" href="https://yout.com/video/?lang=ne" />
+<link rel="alternate" hreflang="no" href="https://yout.com/video/?lang=no" />
+<link rel="alternate" hreflang="pa" href="https://yout.com/video/?lang=pa" />
+<link rel="alternate" hreflang="ps" href="https://yout.com/video/?lang=ps" />
+<link rel="alternate" hreflang="fa" href="https://yout.com/video/?lang=fa" />
+<link rel="alternate" hreflang="pl" href="https://yout.com/video/?lang=pl" />
+<link rel="alternate" hreflang="pt" href="https://yout.com/video/?lang=pt" />
+<link rel="alternate" hreflang="ro" href="https://yout.com/video/?lang=ro" />
+<link rel="alternate" hreflang="ru" href="https://yout.com/video/?lang=ru" />
+<link rel="alternate" hreflang="sm" href="https://yout.com/video/?lang=sm" />
+<link rel="alternate" hreflang="sr" href="https://yout.com/video/?lang=sr" />
+<link rel="alternate" hreflang="st" href="https://yout.com/video/?lang=st" />
+<link rel="alternate" hreflang="sn" href="https://yout.com/video/?lang=sn" />
+<link rel="alternate" hreflang="sd" href="https://yout.com/video/?lang=sd" />
+<link rel="alternate" hreflang="so" href="https://yout.com/video/?lang=so" />
+<link rel="alternate" hreflang="sw" href="https://yout.com/video/?lang=sw" />
+<link rel="alternate" hreflang="sv" href="https://yout.com/video/?lang=sv" />
+<link rel="alternate" hreflang="su" href="https://yout.com/video/?lang=su" />
+<link rel="alternate" hreflang="tl" href="https://yout.com/video/?lang=tl" />
+<link rel="alternate" hreflang="th" href="https://yout.com/video/?lang=th" />
+<link rel="alternate" hreflang="ta" href="https://yout.com/video/?lang=ta" />
+<link rel="alternate" hreflang="tg" href="https://yout.com/video/?lang=tg" />
+<link rel="alternate" hreflang="te" href="https://yout.com/video/?lang=te" />
+<link rel="alternate" hreflang="tr" href="https://yout.com/video/?lang=tr" />
+<link rel="alternate" hreflang="uk" href="https://yout.com/video/?lang=uk" />
+<link rel="alternate" hreflang="ur" href="https://yout.com/video/?lang=ur" />
+<link rel="alternate" hreflang="uz" href="https://yout.com/video/?lang=uz" />
+<link rel="alternate" hreflang="vi" href="https://yout.com/video/?lang=vi" />
+<link rel="alternate" hreflang="xh" href="https://yout.com/video/?lang=xh" />
+<link rel="alternate" hreflang="yi" href="https://yout.com/video/?lang=yi" />
+<link rel="alternate" hreflang="yo" href="https://yout.com/video/?lang=yo" />
+<link rel="alternate" hreflang="zu" href="https://yout.com/video/?lang=zu" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="icon" type="image/png" href="https://yout.com/static/images/Youty.png" />
+
+<link rel="stylesheet" href="/static/styles/bootstrap.css">
+<link rel="stylesheet" href="/static/styles/main.css?v15.22">
+<link rel="stylesheet" href="/static/styles/mobile.css?v15.22">
+
+<script src="/static/scripts/jquery.min.js"></script>
+<script src="/static/scripts/bootstrap.min.js"></script>
+<script src="/static/scripts/utils.js?v15.22"></script>
+
+    <script>var inVideoPage = true;</script>
+
+<script defer src="/static/scripts/autosuggest.js?v15.22"></script>
+</head>
+<body class=" ">
+<script>
+    var token = '';
+    var user_username = '';
+    var public_username = '';
+    var video_type = '';
+</script>
+<div class="header header-container">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+<!--        <div class="superheader text-center">-->
+<!--            Nous avons gagné au Brésil-->
+<!--            <img src="data:image/x-icon;base64,AAABAAEAEBAAAAAAAABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAc8eEAGq1XgBBsGwATp5HAFGcSwBF3qgA+unUAFqeVABquGMAYL1zAOiCdgB7xHQAjNmAAG+rYwBkrV4Aoa2tAI/rzgAf8K4AgtRuAL+SjgD6FjkAIvKwAL2TfgBclFMASa05AEOZVAA71J4AIoczAOjjzwBy6MMAPJZFADSZRQBGj1sAfsSUAHSwawBzv2cAW6ZVAFScTgBK//wA3sCpADOKQQBTikoAKvr2ALpfbQA8li8A0bahAPKJcgBevWgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATDQ0NDQ0SFg0BCiMYKgAAEw4fHxknJycnJBwcHC0AABMOIAYnCxUVCycbHBwaAAANJCsnFBUVFSgQJyskIQAAIicnJxUVLygVFycnJwMAABMkKycQHQcuFSwnKyQIAAATMAIGJwsVFQsnGykpCAAAEzAwMCQnJycnDwUpKQgAABMNDQ0NDREeDAklBCYIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAD//wAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAP//AAA="/>-->
+<!--            <a href="https://torrentfreak.com/isps-must-unblock-stream-ripping-sites-after-yout-com-intervenes-in-brazil-210528/"-->
+<!--               rel="nofollow"-->
+<!--               target="_blank">Cliquez ici pour lire les actualités</a>-->
+<!--        </div>-->
+        <div class="container relative padding-less">
+            <div class="main-header-container">
+                
+                    <a href="/"
+                       class="navbar-brand header-item"></a>
+                    <div class="header-item header-search">
+                        <form action="/s"
+      class="relative search-form">
+    <div class="autosuggest relative">
+        <div class="loupe"><?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:svgjs="http://svgjs.com/svgjs"
+     version="1.1"
+     width="512"
+     height="512"
+     x="0"
+     y="0"
+     viewBox="0 0 513.28 513.28"
+     style="enable-background:new 0 0 512 512"
+     xml:space="preserve"
+     class=""><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M495.04,404.48L410.56,320c15.36-30.72,25.6-66.56,25.6-102.4C436.16,97.28,338.88,0,218.56,0S0.96,97.28,0.96,217.6    s97.28,217.6,217.6,217.6c35.84,0,71.68-10.24,102.4-25.6l84.48,84.48c25.6,25.6,64,25.6,89.6,0    C518.08,468.48,518.08,430.08,495.04,404.48z M218.56,384c-92.16,0-166.4-74.24-166.4-166.4S126.4,51.2,218.56,51.2    s166.4,74.24,166.4,166.4S310.72,384,218.56,384z"
+              fill="#ffffff"
+              data-original="#000000"
+              style=""
+              class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+</g></svg></div>
+        <input type="text"
+               name="terms"
+               class="form-control"
+               placeholder="Coller une URL ou rechercher"
+               value="https://youtube.com/watch?v=kJQP7kiw5fk"
+               autocomplete="off">
+        <ul class="autosuggest-list margin-less"></ul>
+    </div>
+</form>
+                    </div>
+                
+                <div class="pull-right mobile-toggle header-menu-box">
+                    
+                    <div class="hamb-main-menu header-item relative">
+                        
+                        <a class="dropdown-toggle main-hamb"
+                           id="mainMenuDropdown"
+                           data-toggle="dropdown">
+                            
+                            <span class="hamb-icon">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </span>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-right padding-less"
+                            aria-labelledby="mainMenuDropdown">
+                            
+                                <li>
+                                    <a href="/signin/">se connecter</a>
+                                </li>
+                                <li>
+                                    <a href="/pro/">S&#39;inscrire</a>
+                                </li>
+                            
+                            <li class="divider"
+                                role="separator"></li>
+                            
+                            
+                            <li>
+                                <a href="/about/">À propos de nous</a>
+                            </li>
+                            <li>
+                                <a href="/how-to-format-shift/">Changement de format</a>
+                            </li>
+                            <li>
+                                <a href="/faq/">FAQ</a>
+                            </li>
+                            <li>
+                                <a href="/contact-us/">Contact</a>
+                            </li>
+                            <li class="divider"
+                                role="separator"></li>
+                            <li>
+                                <a href="/terms/">Conditions d&#39;utilisation</a>
+                            </li>
+                            <li>
+                                <a href="/privacy/">Politique de confidentialité</a>
+                            </li>
+                            <li class="divider"
+                                role="separator"></li>
+                            <li>
+                                <a href="/meme/">Meme</a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    
+</div>
+<div class="">
+    
+    <link rel="stylesheet"
+          href="/static/styles/nouislider.min.css">
+    <div class="">
+        <div class="yout-content yout-video-content main-video-container container search-content padding-less  uli-usr  ">
+            <div class="main-container table-row block-white padding-less w640">
+                <div class="table-display">
+                    <div class="table-row mainvideo-container relative">
+                        
+                            <div class="video-user-action show-hotness">
+                                <a class="preference-button toggle-hotness text-center"><span class="block">↤ Show</span></a>
+                            </div>
+                        
+                        <div class="video-loading">
+                            <div class="video-iframe hidden"></div>
+                            <div class="video-frame">
+                                <div class="yout_mask"></div>
+                                <div class="loader-container">
+    <div class="lds-ripple"><div></div><div></div></div>
+</div>
+                                
+                                    <div class="player-wrapper">
+                                        <div id="youtPlayer"
+                                             class="hidden"></div>
+                                    </div>
+                                
+                            </div>
+                            <div class="form-group col-xs-12 range-cotainer">
+                                <div class="range-time">
+                                    <div class="pull-left">
+                                        <b>De: </b>
+                                        <input type="text"
+                                               class="form-control"
+                                               disabled>
+                                    </div>
+                                    <div class="pull-right">
+                                        <b>À: </b>
+                                        <input type="text"
+                                               class="form-control"
+                                               disabled>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="recorder-settings content-padding clear">
+                                <div class="form-group col-xs-12 padding-less">
+                                    <label class="control-label col-xs-2 padding-less text-left">Format</label>
+                                    <div class="col-xs-10 padding-less">
+                                        <div class="switch">
+                                            <span class="option-switch">MP3 (L&#39;audio)</span>
+                                            <span class="option-switch">MP4 (Vidéo)</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group col-xs-12 padding-less">
+                                    <label class="control-label col-xs-2 padding-less text-left">Qualité</label>
+                                    <div class="col-md-4 col-xs-6 padding-less">
+                                        <div>
+                                            <input class="form-control"
+                                                   disabled>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-xs-2 padding-less text-left">Titre</label>
+                                    <div class="col-xs-10 padding-less">
+                                        <input type="text"
+                                               class="form-control"
+                                               disabled>
+                                    </div>
+                                </div>
+                                <div class="form-group relative">
+                                    <label class="col-xs-2 padding-less text-left">Artiste</label>
+                                    <div class="col-xs-10 padding-less">
+                                        <input type="text"
+                                               class="form-control"
+                                               disabled>
+                                    </div>
+                                </div>
+                                <button class="btn btn-block btn-yout"
+                                        disabled>
+                                    <span class="record-circle"></span> Changement de format vers ...
+                                </button>
+                            </div>
+                        </div>
+                        <div class="video-loaded">
+                            <div class="video-frame">
+                                <a href="https://youtube.com/watch?v=kJQP7kiw5fk" rel="noreferrer noopener nofollow"
+                                   class="yout_mask play_video_action"
+                                   style="background-image: url('https://i.ytimg.com/vi/kJQP7kiw5fk/hqdefault.jpg')"
+                                   target="_blank">
+                                    <div class="yout_play_button"></div>
+                                </a>
+                            </div>
+                            <div class="form-group col-xs-12 range-cotainer">
+                                <div class="range-time">
+                                    <div class="pull-left">
+                                        <b>De: </b>
+                                        <input type="text"
+                                               class="form-control"
+                                               name="settings_from">
+                                    </div>
+                                    <div class="pull-right">
+                                        <b>À: </b>
+                                        <input type="text"
+                                               class="form-control"
+                                               name="settings_to">
+                                    </div>
+                                </div>
+                                <div id="range"></div>
+                            </div>
+                            <div class="recorder-settings content-padding clear">
+                                <div class="form-group col-xs-12 padding-less">
+                                    <label class="control-label col-xs-2 padding-less text-left">Format</label>
+                                    <div class="col-xs-10 padding-less selections-values">
+                                        <div class="switch">
+                                            <span class="option-switch switch_mp3 active"
+                                                  data-code="audio"
+                                                  data-format="MP3">MP3 (L&#39;audio)</span>
+                                            <span class="option-switch switch_mp4"
+                                                  data-code="video"
+                                                  data-format="MP4">MP4 (Vidéo)</span>
+                                            
+                                                <span class="option-switch switch_wav"
+                                                      data-code="wav"
+                                                      data-format="WAV">WAV (L&#39;audio)</span>
+                                            
+                                            
+                                                <a href="/gif/kJQP7kiw5fk/"
+                                                   class="option-switch">GIF
+                                                    (Image)</a>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group col-xs-12 padding-less">
+                                    <label class="control-label col-xs-2 padding-less text-left">
+                                        <span class="quality-mp3-info">
+                                            <a href="/url-mp3/#quality_info"
+                                               class="quality-info-anchor"><span>Qualité</span> ⓘ</a>
+                                        </span>
+                                        <span class="quality-mp4-info">Qualité</span>
+                                    </label>
+                                    <div class="selection_quality quality_audio">
+                                        <div class="col-xs-4 padding-less">
+                                            <select name="audio-quality"
+                                                    class="form-control"
+                                                    data-default="128">
+                                                <option value="32">32 kbit/s - faible</option>
+                                                <option value="64">64 kbit/s - faible</option>
+                                                <option value="128">128 kbit/s
+                                                    - faible
+                                                </option>
+                                                <option value="192" >
+                                                    192 kbit/s - Moyen</option>
+                                                <option value="256">256 kbit/s
+                                                    - Haute
+                                                </option>
+                                                <option value="320" >320
+                                                    kbit/s
+                                                    - Le plus élevé</option>
+                                            </select>
+                                        </div>
+                                        <div class="better_quality_available col-xs-6 pading-less">
+                                            
+                                                <a href="/pro/">Meilleure qualité audio disponible pour PRO</a>
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="selection_quality quality_video">
+                                        <div class="col-xs-4 padding-less">
+                                            
+                                                <select name="video-quality"
+                                                        class="form-control"
+                                                        data-default="480">
+                                                    <option value="144">144p</option>
+                                                    <option value="240">240p</option>
+                                                    <option value="360">360p</option>
+                                                    <option value="480" selected>
+                                                        480p
+                                                    </option>
+                                                    
+                                                    <option value="720">720p - HD</option>
+                                                    <option value="1080">1080p - HD</option>
+                                                </select>
+                                            
+                                        </div>
+                                        <div class="col-xs-6 padding-less">
+                                            <div class="better_video_quality_available">
+                                                
+                                                    <a href="/pro/"><span
+                                                            class="available_quality">1080p/720p</span> disponible pour PRO
+                                                    </a>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group settings-title-container">
+                                    <label class="col-xs-2 padding-less text-left">Titre</label>
+                                    <div class="col-xs-10 padding-less">
+                                        <input type="text"
+                                               class="form-control"
+                                               placeholder="Titre"
+                                               name="settings_title">
+                                    </div>
+                                </div>
+                                <div class="form-group relative settings-artist-container">
+                                    <a class="toggle-title-artist">↓</a>
+                                    <label class="col-xs-2 padding-less text-left">Artiste</label>
+                                    <div class="col-xs-10 padding-less">
+                                        <input type="text"
+                                               class="form-control"
+                                               placeholder="Artiste"
+                                               name="settings_artist">
+                                    </div>
+                                </div>
+                                <div class="metadata-fields">
+                                    <ul class="list-inline">
+                                        <li>
+                                            <label>
+                                                <input type="checkbox"
+                                                       name="remove_silence"
+                                                       value="1"
+                                                       checked> <span>Supprimer le silence</span>
+                                            </label>
+                                            <div class="yout-tooltip">
+                                                <div class="yout-tooltip-content">
+                                                    Supprimez le silence du début et de la fin du mp3. Conseillé.
+                                                    <a href="#"
+                                                       class="close-tooltip">proche</a>
+                                                </div>
+                                                <a href="#"
+                                                   class="open-yout-tooltip">(?)</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <input type="checkbox"
+                                                       name="normalize"
+                                                       value="1"
+                                                       checked> <span>Normaliser</span>
+                                            </label>
+                                            <div class="yout-tooltip">
+                                                <div class="yout-tooltip-content">
+                                                    Réglez le volume à un niveau confortable. Tous les MP3 normalisés ont le même volume. Conseillé.
+                                                    <a href="#"
+                                                       class="close-tooltip">proche</a>
+                                                </div>
+                                                <a href="#"
+                                                   class="open-yout-tooltip">(?)</a>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <label>
+                                                <input type="checkbox"
+                                                       name="discover_metadata"
+                                                       value="1"
+                                                       checked> <span>Découvrez les métadonnées</span>
+                                            </label>
+                                            <div class="yout-tooltip">
+                                                <div class="yout-tooltip-content">
+                                                    Découvrez et remplissez le texte de la page vidéo et nommez le fichier.
+                                                    <a href="#"
+                                                       class="close-tooltip">proche</a>
+                                                </div>
+                                                <a href="#"
+                                                   class="open-yout-tooltip">(?)</a>
+                                            </div>
+                                        </li>
+                                        <li class="how-to-video-link">
+                                            <a href="/url-mp3/">Comment?</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="mp4-how-to">
+                                    <ul class="list-inline">
+                                        <li class="text-right how-to-video-link">
+                                            <a href="/url-mp4/">Comment?</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="recorder-action">
+                                    <button class="btn btn-primary btn-block btn-yout btn-recorder">
+                                        <span class="record-circle"></span> <b
+                                            class="recorder-type">MP3</b>
+                                    </button>
+                                    <div class="after-record alert alert-success hidden">
+                                        <h3>Votre changement de format est sur le point de commencer. Si vous aimez Yout.com, dites-le à vos amis.</h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+                <!-- right sidebar -->
+                <div class="sidebar-container side-bar-right table-row">
+    <div class="sidebar-content">
+        <div class="block-dark"><div class="goal-container relative content-padding padding-top-less padding-bottom-less">
+    <h5>Lisez ceci, s&#39;il vous plaît</h5>
+    <h5><p>Nous avons construit Yout avec l'idée qu'un <strong>outil d'enregistrement de flux légal</strong> pour Internet qui soit propre, facile et sans spam devait exister. Selon <a href="https://eff.org">EFF.org,</a> « la loi est claire que le simple fait de fournir au public un outil de copie de supports numériques n'entraîne pas de responsabilité en matière de droit d'auteur ».</p><p> Nous nous battons pour vos droits de faire cela. Étant donné que nous offrons cet outil gratuitement et que nous engageons des frais d'hébergement Web et juridiques pour vous fournir cet outil, nous espérons que vous apprécierez l'utilisation de Yout et la mise à niveau vers <a href="https://yout.com/pro/">PRO</a> , qui vous offre des fonctionnalités supplémentaires. Votre abonnement à <a href="https://yout.com/pro/">PRO</a> nous aide à rester en vie et à vous assurer que vous ne perdez jamais ce droit d'enregistrer des médias numériques. Veuillez <a href="https://yout.com/pro/">mettre à niveau</a> , <a href="https://commerce.coinbase.com/checkout/4bb5db07-65d7-429c-9016-f973f43d9e46" target="_blank">faire un don</a> ou montrer Yout.com à toute personne que vous connaissez.</p></h5>
+
+    <a href="/pro"
+       class="btn btn-success btn-shadow btn-block btn-lg"><u>Cliquez ici</u> pour passer à PRO</a>
+</div></div>
+    </div>
+</div>
+                <!-- right sidebar -->
+            
+
+            
+                <!-- mobile -->
+                <div class="container mobile-video-container hidden">
+    
+        <div class="mobile-col goal-mobile">
+            <div class="block-dark text-center">
+                <div class="row">
+                    <div class="col-sm-6 col-sm-offset-3 goal-column"><div class="goal-container relative content-padding padding-top-less padding-bottom-less">
+    <h5>Lisez ceci, s&#39;il vous plaît</h5>
+    <h5><p>Nous avons construit Yout avec l'idée qu'un <strong>outil d'enregistrement de flux légal</strong> pour Internet qui soit propre, facile et sans spam devait exister. Selon <a href="https://eff.org">EFF.org,</a> « la loi est claire que le simple fait de fournir au public un outil de copie de supports numériques n'entraîne pas de responsabilité en matière de droit d'auteur ».</p><p> Nous nous battons pour vos droits de faire cela. Étant donné que nous offrons cet outil gratuitement et que nous engageons des frais d'hébergement Web et juridiques pour vous fournir cet outil, nous espérons que vous apprécierez l'utilisation de Yout et la mise à niveau vers <a href="https://yout.com/pro/">PRO</a> , qui vous offre des fonctionnalités supplémentaires. Votre abonnement à <a href="https://yout.com/pro/">PRO</a> nous aide à rester en vie et à vous assurer que vous ne perdez jamais ce droit d'enregistrer des médias numériques. Veuillez <a href="https://yout.com/pro/">mettre à niveau</a> , <a href="https://commerce.coinbase.com/checkout/4bb5db07-65d7-429c-9016-f973f43d9e46" target="_blank">faire un don</a> ou montrer Yout.com à toute personne que vous connaissez.</p></h5>
+
+    <a href="/pro"
+       class="btn btn-success btn-shadow btn-block btn-lg"><u>Cliquez ici</u> pour passer à PRO</a>
+</div></div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+                <!-- mobile -->
+            
+        </div>
+    </div>
+    <script id="hotness_item_template"
+            type="text/html">
+        <div class="timeline-item-container">
+            <div class="table-display">
+                <div class="timeline-thumb-wrap table-row dont-change">
+                    <a class="relative">
+                        <span class="timeline-letter"></span>
+                        <span class="timeline-photo"></span>
+                    </a>
+                </div>
+                <div class="timeline-wrap table-row dont-change">
+                    <div class="timeline-item-header table-row dont-change">
+                        <a class="timeline-username">@</a>
+                        <span class="small date-ago"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="timeline-item-content relative">
+                <div class="timeline-item-video">
+                    <a class="timeline-item-image">
+                        <div class="timeline-item-title"></div>
+                        <div class="timeline-item-type"></div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </script>
+    <script id="better_quality_information"
+            type="text/html">
+        <div class="alert alert-warning text-center">
+            <span>Seuls les utilisateurs PRO peuvent choisir des qualités élevées.</span> <span class="block"><a
+                href="/pro/">Devenir PRO maintenant</a></span>
+        </div>
+    </script>
+    <script id="clipping_information"
+            type="text/html">
+        <div class="alert alert-warning text-center">Seuls les utilisateurs PRO peuvent extraire de l&#39;audio et des vidéos. <span class="block"><a
+                href="/pro/">Devenir PRO maintenant</a></span></div>
+    </script>
+    <script id="video_action"
+            type="text/html">
+        
+            <button class="btn btn-primary btn-block btn-yout btn-recorder">
+                <span class="record-circle"></span> Changement de format vers <b class="recorder-type">MP3</b>
+            </button>
+            <a href="#"
+               class="btn btn-danger btn-block btn-yout btn-reload hidden">La vidéo semble être cassée. Cliquez pour actualiser.</a>
+            <div class="text-center accept-terms">En cliquant sur le changement de format, vous acceptez notre
+                <a href="/terms/"><u>conditions d&#39;utilisation</u></a></div>
+            <div class="after-record alert alert-success hidden"><h3>Votre changement de format est sur le point de commencer. Si vous aimez Yout.com, dites-le à vos amis.</h3></div>
+        
+        
+        <p class="text-center">Vouloir aider Yout.com? <a href="/pro/" class="btn btn-secondary">Aller à PRO</a></p>
+        
+    </script>
+    
+        <script id="hide_hotness_modal"
+                type="text/html">
+            <div class="backdrop"></div>
+            <div class="simple-modal-box">
+                <div class="block-white">
+                    <a href="/pro/"
+                       class="simple-modal-content text-center">
+                        <div class="heading">Hide Hotness</div>
+                        <div class="description">Cette fonctionnalité est uniquement disponible pour les utilisateurs professionnels. Devenir PRO maintenant</div>
+                    </a>
+                    <hr>
+                    <div class="simple-modal-footer text-right">
+                        <a class="btn btn-default close-modal">Aller à la page vidéo</a>
+                        
+                            <a href="/signup/"
+                               class="btn btn-primary">Aller à PRO</a>
+                        
+                    </div>
+                </div>
+            </div>
+        </script>
+    
+    
+    <div class="container newsletter-container">
+        <div class="col-sm-4 col-sm-offset-4 padding-less">
+            <form class="newsletter_subscription border-radious">
+                <input type="hidden" name="lang" value="fr">
+                <div class="form-group margin-less">
+                    <label for="subscribe_email">Abonnez-vous aux mises à jour critiques</label>
+                    <div class="relative">
+                        <input id="subscribe_email" type="email" name="email" class="form-control"
+                               placeholder="Entrer votre Email" required>
+                        <button class="btn btn-primary">Souscrire</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script defer src="/static/scripts/newsletter.js?"></script>
+
+    <div id="rateModal"
+         class="modal"
+         tabindex="-1"
+         role="dialog">
+        <div class="modal-dialog"
+             role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <div class="container">
+                        <a id="logo"
+                           class="navbar-brand"
+                           href="/"></a>
+                        <a class="close-modal-icon"
+                           data-dismiss="modal">
+                            <img src="/static/images/close.svg"
+                                 alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="container">
+                    <div class="modal-body">
+                        <div class="exceeded-wrapper text-center">
+                            Vous avez dépassé votre limite d&#39;enregistrement de trois vidéos par heure, vous pouvez enregistrer vos vidéos dans
+                            <b><span class="time-exceeded"></span></b>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-6 col-sm-offset-3">
+                                <h3 class="text-center">Devenir PRO vous donne ces fonctionnalités</h3>
+                                <ul class="list-unstyled">
+    <li>☝ <span class="highlighted">Enregistrements illimités</span> - Aucune limite de taux sur le nombre d&#39;enregistrements que vous pouvez faire</li>
+    <li>🥇 <span
+            class="highlighted">Playlists</span> - Enregistrer de la vidéo et de l&#39;audio à partir de la page de liste de lecture
+    </li>
+    <li>🥇 <span
+            class="highlighted">Canaux</span> - Enregistrez la vidéo et l&#39;audio à partir de la chaîne et des pages utilisateur
+    </li>
+    <li>🔍 <span
+            class="highlighted">Rechercher et enregistrer</span> - Enregistrement à partir de la page de recherche
+    </li>
+    <li>🚀 <span
+            class="highlighted">Coupure</span> - Couper des parties de vidéos et audios
+    </li>
+    <li>☘  <span
+            class="highlighted">La plus haute qualité</span>
+        - Obtenez 1080p, 720p et 320kbit / s
+    </li>
+    <li>🎥 <span
+            class="highlighted">GIF maker gratuit</span> - Créer des gifs avec superposition de texte
+    </li>
+    <li>🐱 <span
+            class="highlighted">couronne</span> - Obtenez une couronne ontop de votre nom d&#39;utilisateur
+    </li>
+    <li>⏰ <span
+            class="highlighted">Annuler à tout moment</span> - Il est facile d&#39;annuler, dans notre section de facturation, vous pouvez trouver une annulation en un clic
+    </li>
+</ul>
+                            </div>
+                        </div>
+                        <div class="row top-marged hidden-xs">
+                            <!-- div class="col-sm-4">
+                                <a href="/pro/?plan=dollar"
+                                   class="plan-item relative">
+                                    <div class="plan-name">Carte journalière</div>
+                                    <div class="plan-price">$6 <span>USD</span></div>
+                                    <span class="plan-caption">Facturé une seule fois</span>
+                                    <div class="plan-button">
+                                    <span class="btn btn-success btn-lg">
+                                        S&#39;inscrire
+                                    </span>
+                                    </div>
+                                </a>
+                            </div -->
+                            <div class="col-sm-6">
+                                <a href="/pro/?plan=monthly"
+                                   class="plan-item relative">
+                                    <div class="plan-name">mensuel</div>
+                                    <div class="plan-price">$12 <span>USD</span></div>
+                                    <span class="plan-caption">Renouvelé sauf si annulé</span>
+                                    <div class="plan-button">
+                                    <span class="btn btn-success btn-lg">
+                                        S&#39;inscrire
+                                    </span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-sm-6">
+                                <a href="/pro/?plan=annual"
+                                   class="plan-item relative active">
+                                    <span class="save">25% off</span>
+                                    <div class="plan-name">Annuel</div>
+                                    <div class="plan-price">$9 <span>USD/mensuel</span></div>
+                                    <div class="plan-caption">Facturé annuellement à 108 USD/an</div>
+                                    <span class="plan-caption">Renouvelé sauf si annulé</span>
+                                    <div class="plan-button">
+                                    <span class="btn btn-success btn-lg">
+                                        S&#39;inscrire
+                                    </span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row top-marged visible-xs text-center">
+                            <a href="/pro/?plan=monthly">
+                                    <span class="btn btn-success btn-lg expanded">
+                                        S&#39;inscrire
+                                    </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="main-footer">
+    <div class="footer text-center">
+        
+        <div class="dropdown relative">
+            <button class="btn btn-default dropdown-toggle language-selection"
+                    type="button"
+                    data-toggle="dropdown">La langue [FR]
+            </button>
+            <ul class="dropdown-menu">
+                <li>
+                    <div id="langs"
+                         class="dropdown-menu-columns">
+                        <ul class="col-md-3 col-xs-6 list-unstyled">
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=af"
+                                   data-lang=" af">
+                                    Afrikaans
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ar"
+                                   data-lang="ar">
+                                    عربى
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=az"
+                                   data-lang="az">
+                                    Azərbaycan
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=be"
+                                   data-lang="be">беларускую</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=bg"
+                                   data-lang="bg">български</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ca"
+                                   data-lang="ca">Català</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=cs"
+                                   data-lang="cs">čeština</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=da"
+                                   data-lang="da">Dansk</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=de"
+                                   data-lang="de">Deutsche</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=el"
+                                   data-lang="el">Ελληνικά</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=en"
+                                   data-lang="en">English</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=es"
+                                   data-lang="es">Español</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=et"
+                                   data-lang="et">Eesti
+                                    keel</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=eu"
+                                   data-lang="eu">Euskal</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=fa"
+                                   data-lang="fa">فارسی</a>
+                            </li>
+                        </ul>
+                        <ul class="col-md-3 col-xs-6 list-unstyled">
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=fi"
+                                   data-lang="fi">Suomalainen</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=fr"
+                                   data-lang="fr">Français</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=gl"
+                                   data-lang="gl">Galego</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=gu"
+                                   data-lang="gu">ગુજરાતી</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=hi"
+                                   data-lang="hi">हिंदी</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=hr"
+                                   data-lang="hr">Hrvatski</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=hu"
+                                   data-lang="hu">Magyar</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=hy"
+                                   data-lang="hy">հայերեն</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=id"
+                                   data-lang="id">Bahasa
+                                    Indonesia</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=is"
+                                   data-lang="is">Íslensku</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=it"
+                                   data-lang="it">Italiano</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ja"
+                                   data-lang="ja">日本語</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ka"
+                                   data-lang="ka">ქართული</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=kk"
+                                   data-lang="kk">Қазақша</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=kn"
+                                   data-lang="kn">ಕನ್ನಡ</a>
+                            </li>
+                        </ul>
+                        <ul class="col-md-3 col-xs-6 list-unstyled">
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ko"
+                                   data-lang="ko">한국어</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ky"
+                                   data-lang="ky">Кыргызча</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=lt"
+                                   data-lang="lt">Lietuviškai</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=lv"
+                                   data-lang="lv">Latviešu</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=mk"
+                                   data-lang="mk">Македонски</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=mn"
+                                   data-lang="mn">Монгол
+                                    хэл</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=mr"
+                                   data-lang="mr">मराठी</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ms"
+                                   data-lang="ms">Melayu</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=nl"
+                                   data-lang="nl">Nederlands</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=pa"
+                                   data-lang="pa">ਪੰਜਾਬੀ</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=pl"
+                                   data-lang="pl">Polskie</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=pt"
+                                   data-lang="pt">Português</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ro"
+                                   data-lang="ro">Română</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ru"
+                                   data-lang="ru">Pусский</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=sk"
+                                   data-lang="sk">Slovenský</a>
+                            </li>
+                        </ul>
+                        <ul class="col-md-3 col-xs-6 list-unstyled">
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=sl"
+                                   data-lang="sl">Slovenščina</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=sq"
+                                   data-lang="sq">Shqiptar</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=sr"
+                                   data-lang="sr">Српски</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=sv"
+                                   data-lang="sv">Svenska</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=sw"
+                                   data-lang="sw">Kiswahili</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ta"
+                                   data-lang="ta">தமிழ்</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=te"
+                                   data-lang="te">తెలుగు</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=th"
+                                   data-lang="th">ไทย</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=tr"
+                                   data-lang="tr">Türk</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=uk"
+                                   data-lang="uk">Українська</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=ur"
+                                   data-lang="ur">اردو</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=uz"
+                                   data-lang="uz">O'zbek</a>
+                            </li>
+                            <li>
+                                <a href="https://yout.com/video/?url=https://youtube.com/watch?v=kJQP7kiw5fk&lang=vi"
+                                   data-lang="vi">Tiếng
+                                    Việt</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        
+    </div>
+    <div class="footer text-center foot-footer">
+        <p><a href="https://twitter.com/youtdotcom"
+              target="_blank"
+              rel="nofollow">Twitter</a> - <a href="/terms/">Conditions d&#39;utilisation</a> -
+            <a href="/privacy/">Politique de confidentialité</a> -
+            <a href="/contact-us/">Contact</a></p>
+        <p>©® 2024 Yout LLC | Made by <a href="https://john.nader.mx">nadermx</a></p><br><br><br>
+    </div>
+</div>
+
+<!-- script>utils.initIosValidationFn();</script -->
+
+<script async data-id="101449807" src="/bcacdc2172ca156fd.js"></script>
+
+
+    <script defer>
+        if (document.domain.indexOf('yout.com') < 0) {
+            window.top.location.href = 'https://yout.com?ref=iframe';
+        }
+    </script>
+
+
+    <script>
+        var video_orig_url = 'https://youtube.com/watch?v=kJQP7kiw5fk';
+        var token = '';
+        var user_username = '';
+        var public_username = '';
+        var video_id = 'kJQP7kiw5fk';
+        var video_error = '';
+        var artist = '';
+        var story_id = '';
+        var post_id = '';
+        var author_id = '';
+        var twitch_type = '';
+        var pre_format = '';
+    </script>
+    <script src="/static/scripts/nouislider.min.js"></script>
+    
+        <script defer
+                src="/static/scripts/video.js?v15.22"></script>
+    
+    
+        <script defer
+                src="/static/scripts/goal.js?v15.22"></script>
+    
+
+
+</body>
+</html>
